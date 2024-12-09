@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_1-Debug-054cbf82d3c5899b9b5f.json",
+					"name" : "Lab_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zadko/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/5 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041a\u043e\u043c\u043f \u0413\u0440\u0430\u0444\u0456\u043a\u0430/Lab#1/cmake-build-debug",
+		"source" : "C:/Users/zadko/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/5 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041a\u043e\u043c\u043f \u0413\u0440\u0430\u0444\u0456\u043a\u0430/Lab#1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
