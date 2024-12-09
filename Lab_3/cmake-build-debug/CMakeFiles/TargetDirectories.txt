@@ -1,0 +1,5 @@
+C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/Lab_3.dir
+C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources.dir
+C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders.dir
+C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,55 @@
+# ninja log v6
+21	407	7553975431277097	build.ninja	da04e02a4b785989
+367	1171	7554867506481496	CMakeFiles/Lab_3.dir/main.cpp.obj	9e5054eb2fe76e5d
+687	1814	7554407631411282	CMakeFiles/Lab_3.dir/src/glad.c.obj	9708ef63df193892
+1206	1447	7554867514863613	Lab_3.exe	1b9227377341707c
+45	94	7554867503262485	CMakeFiles/copy_shaders	85430ba1a9206b87
+13	24	7554407610174193	clean	f0819b41ab4c6e17
+691	1593	7554407631461221	CMakeFiles/Lab_3.dir/Skybox.cpp.obj	65931fdf09a0050c
+370	1063	7554867506513491	CMakeFiles/Lab_3.dir/Camera.cpp.obj	2ee4dcfb0ae2ebd6
+45	94	7554867503262485	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+38	367	7554867503182433	CMakeFiles/copy_resources	eab24bf2809c63e7
+38	367	7554867503182433	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+697	1556	7554407631510996	CMakeFiles/Lab_3.dir/Loader.cpp.obj	2779e9e47a6ce7d0
+374	474	7554867506553615	CMakeFiles/Lab_3.dir/Variables.cpp.obj	cab25f6c1ac416ee
+377	1206	7554867506573616	CMakeFiles/Lab_3.dir/Planet.cpp.obj	2c6ba6c6cad700d5
+40	93	7554869543866469	CMakeFiles/copy_shaders	85430ba1a9206b87
+40	93	7554869543866469	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+33	699	7554869543791339	CMakeFiles/copy_resources	eab24bf2809c63e7
+33	699	7554869543791339	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+24	61	7554871252389439	CMakeFiles/copy_shaders	85430ba1a9206b87
+24	61	7554871252389439	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+17	696	7554871252309437	CMakeFiles/copy_resources	eab24bf2809c63e7
+17	696	7554871252309437	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+696	1384	7554871259101602	CMakeFiles/Lab_3.dir/Camera.cpp.obj	2ee4dcfb0ae2ebd6
+1384	1571	7554871265984967	Lab_3.exe	1b9227377341707c
+39	88	7554871663618236	CMakeFiles/copy_shaders	85430ba1a9206b87
+39	88	7554871663618236	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+29	752	7554871663540171	CMakeFiles/copy_resources	eab24bf2809c63e7
+29	752	7554871663540171	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+26	55	7554873194629976	CMakeFiles/copy_shaders	85430ba1a9206b87
+26	55	7554873194629976	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+20	236	7554873194554851	CMakeFiles/copy_resources	eab24bf2809c63e7
+20	236	7554873194554851	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+30	75	7554873996500742	CMakeFiles/copy_shaders	85430ba1a9206b87
+30	75	7554873996500742	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+23	732	7554873996440660	CMakeFiles/copy_resources	eab24bf2809c63e7
+23	732	7554873996440660	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+29	76	7554876710429890	CMakeFiles/copy_shaders	85430ba1a9206b87
+29	76	7554876710429890	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+21	409	7554876710339903	CMakeFiles/copy_resources	eab24bf2809c63e7
+21	409	7554876710339903	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+409	1807	7554876714222780	CMakeFiles/Lab_3.dir/main.cpp.obj	9e5054eb2fe76e5d
+1808	2036	7554876728210950	Lab_3.exe	1b9227377341707c
+33	75	7554877152565293	CMakeFiles/copy_shaders	85430ba1a9206b87
+33	75	7554877152565293	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+27	666	7554877152500249	CMakeFiles/copy_resources	eab24bf2809c63e7
+27	666	7554877152500249	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+34	65	7554878277095631	CMakeFiles/copy_shaders	85430ba1a9206b87
+34	65	7554878277095631	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+26	324	7554878277020454	CMakeFiles/copy_resources	eab24bf2809c63e7
+26	324	7554878277020454	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
+77	202	7554882552789339	CMakeFiles/copy_shaders	85430ba1a9206b87
+77	202	7554882552789339	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_shaders	85430ba1a9206b87
+65	1089	7554882552666451	CMakeFiles/copy_resources	eab24bf2809c63e7
+65	1089	7554882552666451	C:/Users/zadko/OneDrive/Рабочий стол/5 семестр/Комп Графіка/Lab_3/cmake-build-debug/CMakeFiles/copy_resources	eab24bf2809c63e7
